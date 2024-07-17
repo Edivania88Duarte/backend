@@ -2,6 +2,14 @@
 
 Este repositório contém o código backend desenvolvido durante o evento **NLW Journey - Node.js** da Rocketseat🚀
 
+<br>
+
+![image](https://github.com/user-attachments/assets/6c0f93c5-6d44-47b0-97ef-c38a4e0ab6a7)
+
+
+<br>
+
+
 ## Descrição do Projeto
 
 Durante o evento, foi desenvolvido um planner utilizando várias tecnologias modernas para a construção de uma aplicação robusta e eficiente.
